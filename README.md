@@ -20,24 +20,58 @@
 
 # 👩‍🔬 About Me
 
-I am **Tharuniya Anpalakan**, a biomedical science researcher and computational research portfolio author with work spanning **experimental microbiology, cancer biology, molecular pharmacology, bioinformatics, systems biology, regenerative medicine and biomedical artificial intelligence**. My portfolio connects biomedical questions with carefully documented datasets, transparent computational workflows and appropriately qualified scientific conclusions.
+Hi! I'm **Tharuniya Anpalakan** — an **early-career biomedical science researcher and developing bioinformatics enthusiast** with a strong interest in understanding disease through both laboratory evidence and computational research.
 
-My research materials identify affiliations with the **Department of Applied Sciences at Northumbria University** and the **University of Sri Jayewardenepura** in different project contexts. My work includes both **original laboratory-based investigations** and **secondary analyses of public biomedical datasets**. I keep those contributions distinct: computational reanalysis is not presented as a newly performed wet-lab experiment, and exploratory models are not represented as clinically validated tools.
+My background includes **biomedical science, experimental microbiology, molecular biology and scientific writing**, and I am **still learning and building practical confidence** in Python, bioinformatics, data science and computational biology. This profile is a record of what I have explored, documented, built and am continuing to improve — **not a claim to be an expert in every technique or tool shown here**.
 
-I am particularly interested in how molecular evidence, reproducible computation, and critical appraisal can support stronger biomedical research questions—from tumour transcriptomics and microbial genomics to drug–target networks, organoid graft evidence and the reliability of biomedical language models.
+I enjoy asking how biological mechanisms connect to measurable evidence: from **cancer gene expression** and **microbial contamination** to **drug–target pathways**, **organoid transplantation** and **reliable biomedical AI**. My repositories include laboratory-study documentation, analyses of publicly available datasets, literature evidence maps, code, notebooks and carefully qualified research reports.
+
+My research materials reference study and research contexts at **Northumbria University** and the **University of Sri Jayewardenepura**. Where a project was collaborative, based on earlier coursework, or built from public data, I aim to describe that distinction accurately.
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Biomedical_Science-0F766E?style=for-the-badge" alt="Biomedical Science"/> <img src="https://img.shields.io/badge/Bioinformatics-7C3AED?style=for-the-badge" alt="Bioinformatics"/> <img src="https://img.shields.io/badge/Computational_Biology-2563EB?style=for-the-badge" alt="Computational Biology"/>
-<img src="https://img.shields.io/badge/Cancer_Genomics-DB2777?style=for-the-badge" alt="Cancer Genomics"/> <img src="https://img.shields.io/badge/Molecular_Pharmacology-EA580C?style=for-the-badge" alt="Molecular Pharmacology"/> <img src="https://img.shields.io/badge/Systems_Biology-0891B2?style=for-the-badge" alt="Systems Biology"/>
-<img src="https://img.shields.io/badge/Biomedical_AI-9333EA?style=for-the-badge" alt="Biomedical AI"/> <img src="https://img.shields.io/badge/Experimental_Microbiology-059669?style=for-the-badge" alt="Experimental Microbiology"/> <img src="https://img.shields.io/badge/Regenerative_Medicine-B45309?style=for-the-badge" alt="Regenerative Medicine"/>
+<img src="https://img.shields.io/badge/Early--Career_Researcher-7C3AED?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Always_Learning-06B6D4?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Biomedical_Science-0F766E?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Exploring_Bioinformatics-2563EB?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Research_%26_Reflection-DB2777?style=for-the-badge" />
 
 </div>
 
-> ### 🎯 Research direction
-> **Connecting biological mechanisms, trustworthy evidence, computational methods and reproducible reporting—without overstating what a dataset or model can establish.**
+> **My approach:** Start with the biology, ask a focused question, learn the methods, follow the evidence, and improve the work step by step.
 
 ---
+
+# 🌱 Learning in Public
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 📘 Where I am now
+
+I am at an **early stage of my computational research journey**. I am developing confidence in reproducible analysis, scientific programming and interpreting molecular data. Different projects involve different depths of hands-on experience; a tool listed below does not automatically mean advanced proficiency.
+
+</td>
+<td width="50%" valign="top">
+
+### 🎯 What I am improving
+
+- Python programming, Git and version control
+- Statistical reasoning and reproducible notebooks
+- Cancer transcriptomics and single-cell workflows
+- Molecular docking and evidence-based pharmacology
+- Evaluating model performance, bias and limitations
+- Communicating research clearly and responsibly
+
+</td>
+</tr>
+</table>
+
+**I value progress, openness to feedback, and careful reporting more than impressive-sounding claims.**
+
+---
+
 
 # 📌 Research at a Glance
 
@@ -47,6 +81,8 @@ I am particularly interested in how molecular evidence, reproducible computation
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tharuniya26&layout=compact&theme=tokyonight&hide_border=true" alt="Languages in public GitHub repositories" width="43%" />
 
 </div>
+
+These automated cards show **GitHub activity and repository file composition**, not my academic level or scientific expertise. For example, *Jupyter Notebook* percentage reflects the size of tracked `.ipynb` files rather than how much Python I know. I am learning and improving with every project.
 
 The repositories span laboratory studies and computational research. Project-level results below are **reported in the linked repositories**, not independently verified or clinically validated claims. GitHub-generated cards are third-party services and may occasionally be unavailable.
 
@@ -306,6 +342,8 @@ Below are all **12 currently accessible repositories**, grouped into a single re
 
 # 🧰 Computational & Research Toolkit
 
+**Learning note:** These are tools featured across my projects, not an expert-level proficiency list. I continue to learn them through guided practice, experimentation, documentation and revision.
+
 <div align="center">
 
 ### Programming · Scientific Computing · Research Development
@@ -375,13 +413,76 @@ Biomedical question and biological context
 
 ---
 
-# 📚 Research Communication & Scholarly Work
+# 📚 Publications & Research Writing
 
-My repositories include research reports, manuscripts, reproducible notebooks, figures and structured evidence datasets. The **Kelani River foodborne pathogen research** repository documents an abstract associated with **iCMA 2026**, titled *Evidence of Foodborne Pathogen Contamination in Riverine Fish from Kelani River, Sri Lanka: A Public Health Perspective*, with multi-author attribution preserved in the project record. The exact proceedings metadata and peer-review status should be checked against the official publication record before adding a publication badge.
+<div align="center">
 
-Research reports and manuscripts in other repositories are **portfolio outputs unless an independently verified publication record is linked**. A project PDF alone should not be described as a peer-reviewed journal article.
+<img src="https://img.shields.io/badge/Journal_Article-2025-0F766E?style=for-the-badge" alt="2025 journal article" />
+<img src="https://img.shields.io/badge/Conference_Abstract-2026-7C3AED?style=for-the-badge" alt="2026 conference abstract" />
+<img src="https://img.shields.io/badge/Also_Building-Open_Research_Reports-2563EB?style=for-the-badge" alt="Open research reports" />
+
+</div>
+
+I have contributed to **co-authored scholarly work** alongside developing independent computational research portfolios. The following records are separated by publication type so that a journal article, a conference abstract and an unpublished project report are not confused.
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🧫 2025 · Co-authored Journal Review
+
+**Future direction towards human in-vivo organoid transplantation**
+
+**Authors:** Neranja Sandamini, Thisuri Cyara Jayaweera, Suha Ahmed Naseerdeen, **Tharuniya Anpalakan**, Aafrin Aysha Mohammed Safrin.
+
+**Venue:** *BMS The Journal of Applied Learning*, **3(2)**, 80–87 (July 2025). Online ISSN 2989-0705.
+
+**Research area:** regenerative medicine, stem-cell-derived organoids, transplantation applications and translational challenges.
+
+**Contribution status:** **Co-author** (fourth in the printed author order). The existing records do not establish individual author contributions; no sole-authorship claim is made.
+
+<a href="https://bms.ac.lk/Journal-of-Applied-Learning/volume-3-issue-2-july-2025/"><img src="https://img.shields.io/badge/Official_Journal_Issue-0F766E?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Official journal issue" /></a>
+<a href="https://bms.ac.lk/Journal-of-Applied-Learning/Journal-of-Applied-Learning-Volume-3-Issue-2-July-2025.pdf"><img src="https://img.shields.io/badge/Read_Journal_PDF-7C3AED?style=for-the-badge" alt="Journal issue PDF" /></a>
+
+</td>
+<td width="50%" valign="top">
+
+### 🦠 2026 · Co-authored Conference Abstract
+
+**Evidence of Foodborne Pathogen Contamination in Riverine Fish from Kelani River, Sri Lanka: A Public Health Perspective**
+
+**Authors:** **Anpalakan T**, Meddage AKMMK, Liyanage GY, Idroos FS and Manage PM.
+
+**Venue:** 12th International Conference on Multidisciplinary Approaches (**iCMA 2026**), Faculty of Graduate Studies, University of Sri Jayewardenepura.
+
+**Abstract:** **PP–137**, printed page **189** (2026).
+
+**Research area:** original riverine fish microbiological surveillance and public health. A subsequent Python-based computational reanalysis is documented separately in the associated repository.
+
+**Verification note:** The abstract is documented in supplied source material and listed on a university-affiliated researcher's publication page. Proceedings DOI/ISBN and peer-review status have not been established.
+
+<a href="https://www.nsbm.ac.lk/staff/prof-pathmalal-m-manage/"><img src="https://img.shields.io/badge/Publication_Listing-7C3AED?style=for-the-badge" alt="University affiliated listing" /></a>
+<a href="https://github.com/tharuniya26/kelani-river-foodborne-pathogen-surveillance/tree/main/publications"><img src="https://img.shields.io/badge/Research_%26_Citation_Record-0F766E?style=for-the-badge&logo=github&logoColor=white" alt="Research record" /></a>
+
+</td>
+</tr>
+</table>
+
+### 📝 Manuscripts, reproducible reports & portfolio research
+
+My repositories also include **IEEE-style manuscripts, LaTeX reports, computational research write-ups, figures, notebooks and literature/evidence syntheses**. These are research communication outputs and **should not be presented as peer-reviewed publications without a separately verified venue record**.
+
+| Research area | Supporting repository | Type |
+|:--|:--|:--|
+| Cancer survival analysis | [HECKTOR prognosis](https://github.com/tharuniya26/hecktor-centre-aware-prognosis) | Research manuscript and project report |
+| Diabetes single-cell pathways | [Pathway-aware single-cell study](https://github.com/tharuniya26/Project2_Pathway_SingleCell) | Research manuscript / developing study |
+| Biomedical language-model evidence | [Biomedical RAG](https://github.com/tharuniya26/biomedical-rag-evidence-quality) | Computational report and research code |
+| Organoid transplantation evidence mapping | [Organoid landscape](https://github.com/tharuniya26/organoid-transplantation-research-landscape) | Independent computational report; separate from the 2025 journal review |
+| Microbial surveillance reanalysis | [Kelani River project](https://github.com/tharuniya26/kelani-river-foodborne-pathogen-surveillance) | Computational follow-up report; separate from the 2026 conference abstract |
+| Drug targets and molecular networks | [Antiepileptic drugs](https://github.com/tharuniya26/antiepileptic-drug-target-pathway-analysis) · [Autoimmune biologics](https://github.com/tharuniya26/therapeutic-target-landscape-autoimmune-biologics) | Portfolio research reports |
 
 ---
+
 
 # 🔭 Current & Future Research Directions
 
