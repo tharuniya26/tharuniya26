@@ -471,4 +471,3 @@ I welcome conversations around **biomedical research, bioinformatics, experiment
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,25:DB2777,50:7C3AED,75:0077B6,100:0A2342&height=140&section=footer" width="100%" alt="Decorative gradient footer" />
 
 </div>
-
