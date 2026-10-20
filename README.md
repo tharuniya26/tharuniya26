@@ -14,6 +14,10 @@
 <img src="https://img.shields.io/badge/12_Research_Repositories-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="12 research repositories" />
 <img src="https://img.shields.io/badge/Research_%26_Publications-0F766E?style=for-the-badge" alt="Research and publications" />
 
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=tharuniya26&base=250&label=PROFILE+VIEWS&color=7c3aed&style=for-the-badge" alt="Profile views (counter includes a base offset of 250)" />
+
 </div>
 
 ---
