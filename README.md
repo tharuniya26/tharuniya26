@@ -16,7 +16,7 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=tharuniya26&base=250&label=PROFILE+VIEWS&color=7c3aed&style=for-the-badge" alt="Profile views (counter includes a base offset of 250)" />
+<a href="https://github.com/tharuniya26"><img src="https://hits.sh/github.com/tharuniya26.svg?label=PROFILE%20VIEWS&color=7c3aed&labelColor=24292f" alt="GitHub profile visits" /></a>
 
 </div>
 
