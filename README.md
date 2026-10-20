@@ -1,25 +1,21 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A2342,25:0077B6,50:7C3AED,75:DB2777,100:06B6D4&height=240&section=header&text=THARUNIYA%20ANPALAKAN&fontSize=43&fontColor=ffffff&fontAlignY=35&animation=fadeIn&desc=Biomedical%20Science%20%7C%20Bioinformatics%20%7C%20Computational%20Biology%20%7C%20Biomedical%20AI&descSize=16&descAlignY=58" width="100%" alt="Tharuniya Anpalakan — Biomedical Science and Computational Research"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A2342,25:0077B6,50:7C3AED,75:DB2777,100:06B6D4&height=190&section=header&text=THARUNIYA%20ANPALAKAN&fontSize=40&fontColor=ffffff&fontAlignY=37&animation=fadeIn&desc=Biomedical%20Science%20%7C%20Bioinformatics%20%7C%20Computational%20Biology%20%7C%20Biomedical%20AI&descSize=15&descAlignY=59" width="100%" alt="Tharuniya Anpalakan — Biomedical Science and Computational Research"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=650&size=21&duration=2800&pause=950&color=6D5DF5&center=true&vCenter=true&width=1050&lines=From+Biomedical+Questions+to+Reproducible+Evidence;Cancer+Genomics+%E2%80%A2+Molecular+Pathways+%E2%80%A2+Systems+Biology;Computational+Pharmacology+%E2%80%A2+Biomedical+AI;Microbiology+%E2%80%A2+Translational+Research+%E2%80%A2+Data+Science" alt="Animated research interests" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=650&size=19&duration=2800&pause=950&color=6D5DF5&center=true&vCenter=true&width=900&height=42&lines=From+Biomedical+Questions+to+Reproducible+Evidence;Cancer+Genomics+%E2%80%A2+Molecular+Pathways+%E2%80%A2+Systems+Biology;Computational+Pharmacology+%E2%80%A2+Biomedical+AI;Microbiology+%E2%80%A2+Translational+Research+%E2%80%A2+Data+Science" alt="Animated research interests"/>
 
-<br/>
-
-<a href="https://github.com/tharuniya26/?tab=repositories"><img src="https://img.shields.io/badge/Explore_All_Research_Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore All Research Projects" /></a>
-<a href="https://github.com/tharuniya26"><img src="https://img.shields.io/badge/GitHub_Profile-0969DA?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" /></a>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/12_Research_Repositories-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="12 research repositories" />
-<img src="https://img.shields.io/badge/Research_%26_Publications-0F766E?style=for-the-badge" alt="Research and publications" />
-
-<br/><br/>
-
-<a href="https://github.com/tharuniya26"><img src="https://hits.sh/github.com/tharuniya26.svg?label=PROFILE%20VIEWS&color=7c3aed&labelColor=24292f" alt="GitHub profile visits" /></a>
+<p>
+<a href="https://github.com/tharuniya26?tab=repositories"><img src="https://img.shields.io/badge/Explore_Research_Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore research projects"/></a>
+<a href="mailto:tharuniya7972@gmail.com"><img src="https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Tharuniya"/></a>
+<a href="https://github.com/tharuniya26"><img src="https://img.shields.io/badge/GitHub_Profile-0969DA?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile"/></a>
+</p>
+<p>
+<img src="https://img.shields.io/badge/12_Research_Repositories-7C3AED?style=flat-square&logo=github&logoColor=white" alt="12 research repositories"/>
+<img src="https://img.shields.io/badge/Research_%26_Publications-0F766E?style=flat-square" alt="Research and publications"/>
+<a href="https://github.com/tharuniya26"><img src="https://hits.sh/github.com/tharuniya26.svg?label=PROFILE%20VIEWS&color=7c3aed&labelColor=24292f" alt="Profile views counter"/></a>
+</p>
 
 </div>
-
 ---
 
 # 👩‍🔬 About Me
