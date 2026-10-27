@@ -55,7 +55,7 @@ My research documentation includes academic contexts associated with **Northumbr
 
 </div>
 
-I have contributed to **a published co-authored journal review and a published conference abstract**, alongside developing independent computational research portfolios. My [ResearchGate profile](https://www.researchgate.net/profile/Tharuniya-Anpalakan) provides an additional research presence. The following records are separated by publication type so that a journal article, a conference abstract and an unpublished project report are not confused.
+I have contributed to **a published co-authored journal review and a first-author conference abstract**, alongside developing independent computational research portfolios. My [ResearchGate profile](https://www.researchgate.net/profile/Tharuniya-Anpalakan) provides an additional research presence. The following records are separated by publication type so that a journal article, a conference abstract and an unpublished project report are not confused.
 
 <table>
 <tr>
@@ -79,11 +79,11 @@ I have contributed to **a published co-authored journal review and a published c
 </td>
 <td width="50%" valign="top">
 
-### 🦠 2026 · Co-authored Conference Abstract
+### 🦠 2026 · First-Author Conference Abstract
 
 **Evidence of Foodborne Pathogen Contamination in Riverine Fish from Kelani River, Sri Lanka: A Public Health Perspective**
 
-**Authors:** **Anpalakan T**, Meddage AKMMK, Liyanage GY, Idroos FS and Manage PM.
+**Authors:** **Anpalakan T (Tharuniya Anpalakan — first author)**, Meddage AKMMK, Liyanage GY, Idroos FS and Manage PM.
 
 **Venue:** 12th International Conference on Multidisciplinary Approaches (**iCMA 2026**), Faculty of Graduate Studies, University of Sri Jayewardenepura.
 
