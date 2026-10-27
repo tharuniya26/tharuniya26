@@ -7,6 +7,7 @@
 <p>
 <a href="https://github.com/tharuniya26?tab=repositories"><img src="https://img.shields.io/badge/Explore_Research_Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore research projects"/></a>
 <a href="mailto:tharuniya7972@gmail.com"><img src="https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Tharuniya"/></a>
+<a href="https://www.researchgate.net/profile/Tharuniya-Anpalakan"><img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white" alt="ResearchGate researcher profile"/></a>
 <a href="https://github.com/tharuniya26"><img src="https://img.shields.io/badge/GitHub_Profile-0969DA?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile"/></a>
 </p>
 <p>
@@ -54,7 +55,7 @@ My research documentation includes academic contexts associated with **Northumbr
 
 </div>
 
-I have contributed to **co-authored scholarly work** alongside developing independent computational research portfolios. The following records are separated by publication type so that a journal article, a conference abstract and an unpublished project report are not confused.
+I have contributed to **a published co-authored journal review and a published conference abstract**, alongside developing independent computational research portfolios. My [ResearchGate profile](https://www.researchgate.net/profile/Tharuniya-Anpalakan) provides an additional research presence. The following records are separated by publication type so that a journal article, a conference abstract and an unpublished project report are not confused.
 
 <table>
 <tr>
@@ -73,7 +74,7 @@ I have contributed to **co-authored scholarly work** alongside developing indepe
 **Contribution status:** **Co-author** (fourth in the printed author order). The existing records do not establish individual author contributions; no sole-authorship claim is made.
 
 <a href="https://bms.ac.lk/Journal-of-Applied-Learning/volume-3-issue-2-july-2025/"><img src="https://img.shields.io/badge/Official_Journal_Issue-0F766E?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Official journal issue" /></a>
-<a href="https://bms.ac.lk/Journal-of-Applied-Learning/Journal-of-Applied-Learning-Volume-3-Issue-2-July-2025.pdf"><img src="https://img.shields.io/badge/Read_Journal_PDF-7C3AED?style=for-the-badge" alt="Journal issue PDF" /></a>
+<a href="https://bms.ac.lk/Journal-of-Applied-Learning/Volume_3-Issue_2-July_2025/Science/Neranja-Sandamini-BMS-Journal.pdf"><img src="https://img.shields.io/badge/Published_Article_PDF-7C3AED?style=for-the-badge" alt="Journal issue PDF" /></a>
 
 </td>
 <td width="50%" valign="top">
@@ -86,13 +87,13 @@ I have contributed to **co-authored scholarly work** alongside developing indepe
 
 **Venue:** 12th International Conference on Multidisciplinary Approaches (**iCMA 2026**), Faculty of Graduate Studies, University of Sri Jayewardenepura.
 
-**Abstract:** **PP–137**, printed page **189** (2026).
+**Abstract:** **PP–137**, printed page **189**, in the *Proceedings of the 12th International Conference on Multidisciplinary Approaches (iCMA 2026)*, **ISSN 2386-1509**. Conference dates: **6–7 April 2026**.
 
 **Research area:** original riverine fish microbiological surveillance and public health. A subsequent Python-based computational reanalysis is documented separately in the associated repository.
 
-**Verification note:** The abstract is documented in supplied source material and listed on a university-affiliated researcher's publication page. Proceedings DOI/ISBN and peer-review status have not been established.
+**Publication evidence:** Verified against the author-supplied official conference proceedings PDF, abstract **PP–137 (printed p. 189; PDF page 208)**. The conference's download link is currently unreliable, so I link the research citation and ResearchGate profile instead. A separate DOI and the abstract's peer-review status are not verified.
 
-<a href="https://www.nsbm.ac.lk/staff/prof-pathmalal-m-manage/"><img src="https://img.shields.io/badge/Publication_Listing-7C3AED?style=for-the-badge" alt="University affiliated listing" /></a>
+<a href="https://www.researchgate.net/profile/Tharuniya-Anpalakan"><img src="https://img.shields.io/badge/ResearchGate_Profile-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white" alt="ResearchGate profile" /></a>
 <a href="https://github.com/tharuniya26/kelani-river-foodborne-pathogen-surveillance/tree/main/publications"><img src="https://img.shields.io/badge/Research_%26_Citation_Record-0F766E?style=for-the-badge&logo=github&logoColor=white" alt="Research record" /></a>
 
 </td>
