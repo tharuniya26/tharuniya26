@@ -11,8 +11,8 @@
 <a href="https://github.com/tharuniya26"><img src="https://img.shields.io/badge/GitHub_Profile-0969DA?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile"/></a>
 </p>
 <p>
-<img src="https://img.shields.io/badge/12_Research_Repositories-7C3AED?style=flat-square&logo=github&logoColor=white" alt="12 research repositories"/>
-<img src="https://img.shields.io/badge/Research_%26_Publications-0F766E?style=flat-square" alt="Research and publications"/>
+<a href="https://github.com/tharuniya26?tab=repositories"><img src="https://img.shields.io/badge/12_Research_Repositories-7C3AED?style=flat-square&logo=github&logoColor=white" alt="Browse 12 research repositories"/></a>
+<a href="https://github.com/tharuniya26#-research--publications"><img src="https://img.shields.io/badge/Research_%26_Publications-0F766E?style=flat-square" alt="Jump to Research and Publications section"/></a>
 <a href="https://github.com/tharuniya26"><img src="https://hits.sh/github.com/tharuniya26.svg?label=PROFILE%20VIEWS&color=7c3aed&labelColor=24292f" alt="Profile views counter"/></a>
 </p>
 
