@@ -11,7 +11,7 @@
 <a href="https://github.com/tharuniya26"><img src="https://img.shields.io/badge/GitHub_Profile-0969DA?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile"/></a>
 </p>
 <p>
-<a href="https://github.com/tharuniya26?tab=repositories"><img src="https://img.shields.io/badge/12_Research_Repositories-7C3AED?style=flat-square&logo=github&logoColor=white" alt="Browse 12 research repositories"/></a>
+<a href="https://github.com/tharuniya26?tab=repositories"><img src="https://img.shields.io/badge/13_Research_Repositories-7C3AED?style=flat-square&logo=github&logoColor=white" alt="Browse 13 research repositories"/></a>
 <a href="https://github.com/tharuniya26#-research--publications"><img src="https://img.shields.io/badge/Research_%26_Publications-0F766E?style=flat-square" alt="Jump to Research and Publications section"/></a>
 <a href="https://github.com/tharuniya26"><img src="https://hits.sh/github.com/tharuniya26.svg?label=PROFILE%20VIEWS&color=7c3aed&labelColor=24292f" alt="Profile views counter"/></a>
 </p>
@@ -107,7 +107,7 @@ My repositories also include **IEEE-style manuscripts, LaTeX reports, computatio
 | Research area | Supporting repository | Type |
 |:--|:--|:--|
 | Cancer survival analysis | [HECKTOR prognosis](https://github.com/tharuniya26/hecktor-centre-aware-prognosis) | Research manuscript and project report |
-| Diabetes single-cell pathways | [Pathway-aware single-cell study](https://github.com/tharuniya26/Project2_Pathway_SingleCell) | Research manuscript / developing study |
+| Diabetes single-cell pathways | [Pathway-aware single-cell study](https://github.com/tharuniya26/Project2_Pathway_SingleCell) | Completed comparative analysis; manuscript update pending |
 | Biomedical language-model evidence | [Biomedical RAG](https://github.com/tharuniya26/biomedical-rag-evidence-quality) | Computational report and research code |
 | Organoid transplantation evidence mapping | [Organoid landscape](https://github.com/tharuniya26/organoid-transplantation-research-landscape) | Independent computational report; separate from the 2025 journal review |
 | Microbial surveillance reanalysis | [Kelani River project](https://github.com/tharuniya26/kelani-river-foodborne-pathogen-surveillance) | Computational follow-up report; separate from the 2026 conference abstract |
@@ -118,7 +118,7 @@ My repositories also include **IEEE-style manuscripts, LaTeX reports, computatio
 
 # 🚀 Featured Research Projects
 
-Below are all **12 currently accessible repositories**, grouped into a single research portfolio with project-specific methods, results, limitations and direct links.
+Below are **12 featured projects** from **13 research repositories**, grouped with project-specific methods, results, limitations and direct links. The full list is available through the repository browser.
 
 <table>
 <tr>
@@ -260,13 +260,13 @@ Below are all **12 currently accessible repositories**, grouped into a single re
 <td width="50%" valign="top">
 <h3>🔬 Pathway-Aware Single-Cell Analysis in Type 2 Diabetes</h3>
 <p><strong>Single-Cell RNA-seq • Pancreatic Islets • Pathway Models</strong></p>
-<p>Investigates whether biologically informed pathway representations yield more reproducible donor-level type 2 diabetes signals than gene-level and random-group baselines.</p>
+<p>Completed donor-level comparison of gene, KEGG pathway and matched random-group features for type 2 diabetes classification and external transfer. The pathway-superiority hypothesis was not supported.</p>
 <details open><summary><b>Research highlights</b></summary><ul><li>Focus on human pancreatic islet beta cells</li>
 <li>Main GEO dataset: GSE221156</li>
-<li>Planned donor-level pseudobulk and external cohort transfer</li>
-<li>Pathway stability versus matched random gene-group comparisons</li></ul></details>
+<li>Completed donor-level pseudobulk and external-cohort comparison</li>
+<li>Internal ROC AUC: genes 0.927; pathways 0.872; random sets 0.905 mean</li><li>External ROC AUC: genes 1.000; pathways 0.833; random sets 0.916 mean</li></ul></details>
 <p><small><b>Methods & tools:</b> Scanpy · AnnData · scikit-learn · Python</small></p>
-<p><i>Evidence boundary: Project README describes a planned evaluation workflow; do not interpret research questions as completed validation.</i></p>
+<p><i>Evidence boundary: The result did not establish pathway superiority (empirical p = 0.980 internal; 0.922 external). The existing manuscript PDF predates the latest benchmark and needs reconciliation.</i></p>
 <a href="https://github.com/tharuniya26/Project2_Pathway_SingleCell"><img src="https://img.shields.io/badge/Explore_Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore Project" /></a>
 <a href="https://github.com/tharuniya26/Project2_Pathway_SingleCell/blob/main/README.md"><img src="https://img.shields.io/badge/Research_Details-0F766E?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Research details"/></a>
 </td>
@@ -287,7 +287,7 @@ Below are all **12 currently accessible repositories**, grouped into a single re
 </table>
 
 <div align="center">
-<a href="https://github.com/tharuniya26/?tab=repositories"><img src="https://img.shields.io/badge/Browse_All_12_Repositories-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Browse All 12 Repositories" /></a>
+<a href="https://github.com/tharuniya26/?tab=repositories"><img src="https://img.shields.io/badge/Browse_All_13_Repositories-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Browse All 13 Repositories" /></a>
 </div>
 
 ---
@@ -446,7 +446,7 @@ Biomedical question and biological context
 # 🔭 Current & Future Research Directions
 
 - **Centre-aware clinical prognosis:** pursue genuine external validation when suitable multi-centre data become available.
-- **Single-cell diabetes research:** compare gene-level and pathway-level representations with independent-cohort transfer and matched random controls.
+- **Single-cell diabetes research:** reconcile the completed gene/pathway/random-control benchmark with manuscript source, figures, and final PDF.
 - **MRSA genomics:** execute and review AMRFinderPlus screening with documented versions and database coverage.
 - **Natural products and docking:** continue staged structural validation while respecting source chemistry and assay limitations.
 - **Biomedical AI reliability:** investigate evidence sensitivity, miscalibration and practical detection of unsupported answers.
