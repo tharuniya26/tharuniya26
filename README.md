@@ -8,6 +8,7 @@
 <a href="https://github.com/tharuniya26?tab=repositories"><img src="https://img.shields.io/badge/Explore_Research_Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore research projects"/></a>
 <a href="mailto:tharuniya7972@gmail.com"><img src="https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Tharuniya"/></a>
 <a href="https://www.researchgate.net/profile/Tharuniya-Anpalakan"><img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white" alt="ResearchGate researcher profile"/></a>
+<a href="https://www.linkedin.com/in/tharuniya-anpalakan/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn professional profile"/></a>
 <a href="https://github.com/tharuniya26"><img src="https://img.shields.io/badge/GitHub_Profile-0969DA?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile"/></a>
 </p>
 <p>
@@ -21,7 +22,7 @@
 
 # 👩‍🔬 About Me
 
-I am **Tharuniya Anpalakan**, a biomedical science researcher with interests across **molecular biology, experimental microbiology, cancer biology, bioinformatics, computational pharmacology, systems biology and biomedical artificial intelligence**. My work brings together biomedical knowledge, original research documentation, public molecular datasets and reproducible computational approaches to investigate biologically meaningful questions.
+I am **Tharuniya Anpalakan**, a **Biomedical Science Undergraduate** with research interests across **molecular biology, bioinformatics, computational biology, cancer genomics, drug discovery, systems biology, biomedical artificial intelligence and regenerative medicine**. My work brings together biomedical knowledge, original research documentation, public molecular datasets and reproducible computational approaches to investigate biologically meaningful questions.
 
 My research portfolio includes **co-authored scholarly publications**, a documented experimental microbiology investigation, and computational studies spanning **tumour transcriptomics, single-cell biology, drug–target interactions, antimicrobial-resistance genomics, organoid transplantation, molecular pathways and evidence reliability in biomedical AI**.
 
@@ -35,9 +36,11 @@ My research documentation includes academic contexts associated with **Northumbr
 <img src="https://img.shields.io/badge/Bioinformatics-7C3AED?style=for-the-badge" alt="Bioinformatics" />
 <img src="https://img.shields.io/badge/Cancer_Biology-DB2777?style=for-the-badge" alt="Cancer Biology" />
 <img src="https://img.shields.io/badge/Molecular_Pharmacology-EA580C?style=for-the-badge" alt="Molecular Pharmacology" />
+<img src="https://img.shields.io/badge/Drug_Discovery-B45309?style=for-the-badge" alt="Drug Discovery" />
 <img src="https://img.shields.io/badge/Experimental_Microbiology-059669?style=for-the-badge" alt="Experimental Microbiology" />
 <img src="https://img.shields.io/badge/Computational_Biology-2563EB?style=for-the-badge" alt="Computational Biology" />
 <img src="https://img.shields.io/badge/Biomedical_AI-9333EA?style=for-the-badge" alt="Biomedical AI" />
+<img src="https://img.shields.io/badge/Regenerative_Medicine-0891B2?style=for-the-badge" alt="Regenerative Medicine" />
 
 </div>
 
@@ -107,10 +110,11 @@ My repositories also include **IEEE-style manuscripts, LaTeX reports, computatio
 | Research area | Supporting repository | Type |
 |:--|:--|:--|
 | Cancer survival analysis | [HECKTOR prognosis](https://github.com/tharuniya26/hecktor-centre-aware-prognosis) | Research manuscript and project report |
-| Diabetes single-cell pathways | [Pathway-aware single-cell study](https://github.com/tharuniya26/Project2_Pathway_SingleCell) | Completed comparative analysis; manuscript update pending |
+| Diabetes single-cell pathways | [Pathway-aware single-cell study](https://github.com/tharuniya26/Project2_Pathway_SingleCell) | Completed comparative analysis with independent-cohort validation; [research report](https://github.com/tharuniya26/Project2_Pathway_SingleCell/blob/main/Tharuniya_Anpalakan_Project2_Research_Report.pdf) and [validation report](https://github.com/tharuniya26/Project2_Pathway_SingleCell/blob/main/FINAL_VALIDATION_REPORT.md) |
 | Biomedical language-model evidence | [Biomedical RAG](https://github.com/tharuniya26/biomedical-rag-evidence-quality) | Computational report and research code |
 | Organoid transplantation evidence mapping | [Organoid landscape](https://github.com/tharuniya26/organoid-transplantation-research-landscape) | Independent computational report; separate from the 2025 journal review |
 | Microbial surveillance reanalysis | [Kelani River project](https://github.com/tharuniya26/kelani-river-foodborne-pathogen-surveillance) | Computational follow-up report; separate from the 2026 conference abstract |
+| Polyherbal antidiabetic and antioxidant analysis | [Experimental record and computational reanalysis](https://github.com/tharuniya26/polyherbal-antidiabetic-antioxidant-analysis) | Completed public-release analysis with a [research report](https://github.com/tharuniya26/polyherbal-antidiabetic-antioxidant-analysis/blob/main/reports/polyherbal_antidiabetic_antioxidant_analysis.pdf) |
 | Drug targets and molecular networks | [Antiepileptic drugs](https://github.com/tharuniya26/antiepileptic-drug-target-pathway-analysis) · [Autoimmune biologics](https://github.com/tharuniya26/therapeutic-target-landscape-autoimmune-biologics) | Portfolio research reports |
 
 ---
@@ -118,7 +122,7 @@ My repositories also include **IEEE-style manuscripts, LaTeX reports, computatio
 
 # 🚀 Featured Research Projects
 
-Below are **12 featured projects** from **13 research repositories**, grouped with project-specific methods, results, limitations and direct links. The full list is available through the repository browser.
+There are **13 research repositories plus this profile repository**. The **12 projects featured below** are grouped with project-specific methods, results, limitations and direct links; the additional completed polyherbal reanalysis is linked in the research-outputs table above.
 
 <table>
 <tr>
@@ -133,7 +137,7 @@ Below are **12 featured projects** from **13 research repositories**, grouped wi
 <p><small><b>Methods & tools:</b> Python · GEO · Differential Expression · Reactome · PCA</small></p>
 <p><i>Evidence boundary: The results are associations in one public microarray cohort, not a diagnostic or prognostic test.</i></p>
 <a href="https://github.com/tharuniya26/hr-positive-breast-cancer-transcriptomics"><img src="https://img.shields.io/badge/Explore_Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore Project" /></a>
-<a href="https://github.com/tharuniya26/hr-positive-breast-cancer-transcriptomics/blob/main/README.md"><img src="https://img.shields.io/badge/Research_Details-0F766E?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Research details"/></a>
+<a href="https://github.com/tharuniya26/hr-positive-breast-cancer-transcriptomics/blob/main/reports/molecular_transcriptomic_analysis.pdf"><img src="https://img.shields.io/badge/Research_Report-0F766E?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Breast cancer transcriptomics research report"/></a>
 </td>
 <td width="50%" valign="top">
 <h3>🦠 Kelani River Foodborne Pathogen Surveillance</h3>
@@ -146,7 +150,7 @@ Below are **12 featured projects** from **13 research repositories**, grouped wi
 <p><small><b>Methods & tools:</b> Microbiology · Python · Public Health · Reanalysis · Research Reporting</small></p>
 <p><i>Evidence boundary: The computational extension adds no specimens; aggregate records do not independently establish every reported p-value.</i></p>
 <a href="https://github.com/tharuniya26/kelani-river-foodborne-pathogen-surveillance"><img src="https://img.shields.io/badge/Explore_Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore Project" /></a>
-<a href="https://github.com/tharuniya26/kelani-river-foodborne-pathogen-surveillance/blob/main/README.md"><img src="https://img.shields.io/badge/Research_Details-0F766E?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Research details"/></a>
+<a href="https://github.com/tharuniya26/kelani-river-foodborne-pathogen-surveillance/blob/main/reports/computational_reanalysis_latex.pdf"><img src="https://img.shields.io/badge/Research_Report-0F766E?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Kelani River computational reanalysis report"/></a>
 </td>
 </tr><tr>
 <td width="50%" valign="top">
@@ -160,7 +164,7 @@ Below are **12 featured projects** from **13 research repositories**, grouped wi
 <p><small><b>Methods & tools:</b> Python · PubMedQA · Qwen2.5 · BM25 · RAG · Evaluation</small></p>
 <p><i>Evidence boundary: Results describe this experimental setup; confidence did not reliably flag contradictory evidence.</i></p>
 <a href="https://github.com/tharuniya26/biomedical-rag-evidence-quality"><img src="https://img.shields.io/badge/Explore_Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore Project" /></a>
-<a href="https://github.com/tharuniya26/biomedical-rag-evidence-quality/blob/main/README.md"><img src="https://img.shields.io/badge/Research_Details-0F766E?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Research details"/></a>
+<a href="https://github.com/tharuniya26/biomedical-rag-evidence-quality/blob/main/paper/main.pdf"><img src="https://img.shields.io/badge/Project_PDF-0F766E?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Biomedical RAG project PDF"/></a>
 </td>
 <td width="50%" valign="top">
 <h3>💊 Antiepileptic Drug–Target & Pathway Analysis</h3>
@@ -173,7 +177,7 @@ Below are **12 featured projects** from **13 research repositories**, grouped wi
 <p><small><b>Methods & tools:</b> RDKit · NetworkX · PubChem · ChEMBL · UniProt</small></p>
 <p><i>Evidence boundary: Descriptive research portfolio, not a prescribing or treatment recommendation system.</i></p>
 <a href="https://github.com/tharuniya26/antiepileptic-drug-target-pathway-analysis"><img src="https://img.shields.io/badge/Explore_Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore Project" /></a>
-<a href="https://github.com/tharuniya26/antiepileptic-drug-target-pathway-analysis/blob/main/README.md"><img src="https://img.shields.io/badge/Research_Details-0F766E?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Research details"/></a>
+<a href="https://github.com/tharuniya26/antiepileptic-drug-target-pathway-analysis/blob/main/reports/antiepileptic_drug_target_analysis.pdf"><img src="https://img.shields.io/badge/Research_Report-0F766E?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Antiepileptic drug-target research report"/></a>
 </td>
 </tr><tr>
 <td width="50%" valign="top">
@@ -187,7 +191,7 @@ Below are **12 featured projects** from **13 research repositories**, grouped wi
 <p><small><b>Methods & tools:</b> Python · GEO · Biomarker Analysis · Statistical Testing</small></p>
 <p><i>Evidence boundary: The educational case and public cohort are separate; results are not clinical diagnosis.</i></p>
 <a href="https://github.com/tharuniya26/gastric-carcinoma-biomarker-pathway-analysis"><img src="https://img.shields.io/badge/Explore_Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore Project" /></a>
-<a href="https://github.com/tharuniya26/gastric-carcinoma-biomarker-pathway-analysis/blob/main/README.md"><img src="https://img.shields.io/badge/Research_Details-0F766E?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Research details"/></a>
+<a href="https://github.com/tharuniya26/gastric-carcinoma-biomarker-pathway-analysis/blob/main/reports/gastric_carcinoma_biomarker_pathway_analysis.pdf"><img src="https://img.shields.io/badge/Research_Report-0F766E?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Gastric carcinoma research report"/></a>
 </td>
 <td width="50%" valign="top">
 <h3>🧪 Polyherbal Antioxidant & Antidiabetic In-Silico Research</h3>
@@ -214,7 +218,7 @@ Below are **12 featured projects** from **13 research repositories**, grouped wi
 <p><small><b>Methods & tools:</b> Python · STRING · UniProt · Reactome · NetworkX</small></p>
 <p><i>Evidence boundary: A knowledge-guided network, not evidence of direct protein binding or causal pathway activation.</i></p>
 <a href="https://github.com/tharuniya26/reactive-oxygen-species-atherosclerosis-analysis"><img src="https://img.shields.io/badge/Explore_Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore Project" /></a>
-<a href="https://github.com/tharuniya26/reactive-oxygen-species-atherosclerosis-analysis/blob/main/README.md"><img src="https://img.shields.io/badge/Research_Details-0F766E?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Research details"/></a>
+<a href="https://github.com/tharuniya26/reactive-oxygen-species-atherosclerosis-analysis/blob/main/reports/ros_atherosclerosis_network_pathway_analysis.pdf"><img src="https://img.shields.io/badge/Research_Report-0F766E?style=for-the-badge&logo=readthedocs&logoColor=white" alt="ROS and atherosclerosis research report"/></a>
 </td>
 <td width="50%" valign="top">
 <h3>🧫 MRSA Virulence & Antimicrobial Resistance Genomics</h3>
@@ -227,7 +231,7 @@ Below are **12 featured projects** from **13 research repositories**, grouped wi
 <p><small><b>Methods & tools:</b> NCBI RefSeq · FASTA · Python · AMRFinderPlus</small></p>
 <p><i>Evidence boundary: Assembly QC is complete; resistance/virulence findings and phenotype analyses remain pending.</i></p>
 <a href="https://github.com/tharuniya26/mrsa-virulence-amr-genomics"><img src="https://img.shields.io/badge/Explore_Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore Project" /></a>
-<a href="https://github.com/tharuniya26/mrsa-virulence-amr-genomics/blob/main/README.md"><img src="https://img.shields.io/badge/Research_Details-0F766E?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Research details"/></a>
+<a href="https://github.com/tharuniya26/mrsa-virulence-amr-genomics/blob/main/reports/mrsa_genomic_analysis.pdf"><img src="https://img.shields.io/badge/Current_Project_Report-0F766E?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Current MRSA genomics project report"/></a>
 </td>
 </tr><tr>
 <td width="50%" valign="top">
@@ -241,7 +245,7 @@ Below are **12 featured projects** from **13 research repositories**, grouped wi
 <p><small><b>Methods & tools:</b> Python · NetworkX · UniProt · Clinical Evidence Curation</small></p>
 <p><i>Evidence boundary: Approval status is indication-, jurisdiction- and date-specific; network structure does not rank clinical efficacy.</i></p>
 <a href="https://github.com/tharuniya26/therapeutic-target-landscape-autoimmune-biologics"><img src="https://img.shields.io/badge/Explore_Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore Project" /></a>
-<a href="https://github.com/tharuniya26/therapeutic-target-landscape-autoimmune-biologics/blob/main/README.md"><img src="https://img.shields.io/badge/Research_Details-0F766E?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Research details"/></a>
+<a href="https://github.com/tharuniya26/therapeutic-target-landscape-autoimmune-biologics/blob/main/reports/autoimmune_biologics_target_landscape.pdf"><img src="https://img.shields.io/badge/Manuscript-0F766E?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Autoimmune biologics manuscript"/></a>
 </td>
 <td width="50%" valign="top">
 <h3>🧫 Organoid Transplantation: Research Evidence Map</h3>
@@ -254,21 +258,23 @@ Below are **12 featured projects** from **13 research repositories**, grouped wi
 <p><small><b>Methods & tools:</b> Evidence Synthesis · NetworkX · PubMed · Translational Research</small></p>
 <p><i>Evidence boundary: Bounded preclinical evidence map, not an exhaustive systematic review or clinical success estimate.</i></p>
 <a href="https://github.com/tharuniya26/organoid-transplantation-research-landscape"><img src="https://img.shields.io/badge/Explore_Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore Project" /></a>
-<a href="https://github.com/tharuniya26/organoid-transplantation-research-landscape/blob/main/README.md"><img src="https://img.shields.io/badge/Research_Details-0F766E?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Research details"/></a>
+<a href="https://github.com/tharuniya26/organoid-transplantation-research-landscape/blob/main/reports/organoid_transplantation_evidence_mapping.pdf"><img src="https://img.shields.io/badge/Research_Report-0F766E?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Organoid transplantation evidence-mapping report"/></a>
 </td>
 </tr><tr>
 <td width="50%" valign="top">
 <h3>🔬 Pathway-Aware Single-Cell Analysis in Type 2 Diabetes</h3>
-<p><strong>Single-Cell RNA-seq • Pancreatic Islets • Pathway Models</strong></p>
-<p>Completed donor-level comparison of gene, KEGG pathway and matched random-group features for type 2 diabetes classification and external transfer. The pathway-superiority hypothesis was not supported.</p>
-<details open><summary><b>Research highlights</b></summary><ul><li>Focus on human pancreatic islet beta cells</li>
-<li>Main GEO dataset: GSE221156</li>
-<li>Completed donor-level pseudobulk and external-cohort comparison</li>
-<li>Internal ROC AUC: genes 0.927; pathways 0.872; random sets 0.905 mean</li><li>External ROC AUC: genes 1.000; pathways 0.833; random sets 0.916 mean</li></ul></details>
-<p><small><b>Methods & tools:</b> Scanpy · AnnData · scikit-learn · Python</small></p>
-<p><i>Evidence boundary: The result did not establish pathway superiority (empirical p = 0.980 internal; 0.922 external). The existing manuscript PDF predates the latest benchmark and needs reconciliation.</i></p>
+<p><strong>Single-Cell RNA-seq • Donor-Level Pseudobulk • KEGG Pathways</strong></p>
+<p>Completed donor-level analysis of human pancreatic beta-cell transcriptomes, integrating covariate-adjusted differential expression, KEGG enrichment and controlled gene-, pathway- and matched-random modelling.</p>
+<details open><summary><b>Research highlights</b></summary><ul><li>Discovery analysis: 34 donors from GSE221156; 927 genes at FDR &lt; 0.05</li>
+<li>Internal ROC AUC: genes 0.927; KEGG 0.872; 50 matched-random controls 0.905 mean</li>
+<li>Independent fixed-model validation in E-MTAB-5061 (10 donors)</li>
+<li>External ROC AUC: genes 1.000; KEGG 0.833; matched-random controls 0.916 mean</li>
+<li>KEGG representations did not outperform gene-level or matched-random baselines</li></ul></details>
+<p><small><b>Methods & tools:</b> Python · Donor-Level Pseudobulk · Differential Expression · KEGG · scikit-learn</small></p>
+<p><i>Evidence boundary: External estimates are exploratory because the independent cohort contains only ten donors; the results do not establish clinical predictive performance.</i></p>
 <a href="https://github.com/tharuniya26/Project2_Pathway_SingleCell"><img src="https://img.shields.io/badge/Explore_Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore Project" /></a>
-<a href="https://github.com/tharuniya26/Project2_Pathway_SingleCell/blob/main/README.md"><img src="https://img.shields.io/badge/Research_Details-0F766E?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Research details"/></a>
+<a href="https://github.com/tharuniya26/Project2_Pathway_SingleCell/blob/main/Tharuniya_Anpalakan_Project2_Research_Report.pdf"><img src="https://img.shields.io/badge/Research_Report-0F766E?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Type 2 diabetes research report"/></a>
+<a href="https://github.com/tharuniya26/Project2_Pathway_SingleCell/blob/main/FINAL_VALIDATION_REPORT.md"><img src="https://img.shields.io/badge/Validation_Report-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Type 2 diabetes validation report"/></a>
 </td>
 <td width="50%" valign="top">
 <h3>📈 HECKTOR Centre-Aware Head & Neck Cancer Prognosis</h3>
@@ -281,7 +287,7 @@ Below are **12 featured projects** from **13 research repositories**, grouped wi
 <p><small><b>Methods & tools:</b> Python · Survival Analysis · Cox PH · Cross-Validation</small></p>
 <p><i>Evidence boundary: The real dataset is apparently single-centre; synthetic centre splits are not true external validation.</i></p>
 <a href="https://github.com/tharuniya26/hecktor-centre-aware-prognosis"><img src="https://img.shields.io/badge/Explore_Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore Project" /></a>
-<a href="https://github.com/tharuniya26/hecktor-centre-aware-prognosis/blob/main/README.md"><img src="https://img.shields.io/badge/Research_Details-0F766E?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Research details"/></a>
+<a href="https://github.com/tharuniya26/hecktor-centre-aware-prognosis/blob/main/paper/ieee_mda_overall_survival.pdf"><img src="https://img.shields.io/badge/Manuscript-0F766E?style=for-the-badge&logo=readthedocs&logoColor=white" alt="HECKTOR prognosis manuscript"/></a>
 </td>
 </tr>
 </table>
@@ -446,7 +452,7 @@ Biomedical question and biological context
 # 🔭 Current & Future Research Directions
 
 - **Centre-aware clinical prognosis:** pursue genuine external validation when suitable multi-centre data become available.
-- **Single-cell diabetes research:** reconcile the completed gene/pathway/random-control benchmark with manuscript source, figures, and final PDF.
+- **Single-cell diabetes research:** extend the completed donor-level benchmark to larger independent cohorts and alternative pathway-scoring methods.
 - **MRSA genomics:** execute and review AMRFinderPlus screening with documented versions and database coverage.
 - **Natural products and docking:** continue staged structural validation while respecting source chemistry and assay limitations.
 - **Biomedical AI reliability:** investigate evidence sensitivity, miscalibration and practical detection of unsupported answers.
@@ -464,6 +470,7 @@ I welcome conversations around **biomedical research, bioinformatics, experiment
 
 <a href="https://github.com/tharuniya26/?tab=repositories"><img src="https://img.shields.io/badge/Explore_My_Research_Repositories-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Explore My Research Repositories" /></a>
 <a href="https://github.com/tharuniya26"><img src="https://img.shields.io/badge/Connect_on_GitHub-0F766E?style=for-the-badge&logo=github&logoColor=white" alt="Connect on GitHub" /></a>
+<a href="https://www.linkedin.com/in/tharuniya-anpalakan/"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
 
 <br/><br/>
 
