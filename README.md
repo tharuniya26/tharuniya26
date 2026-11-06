@@ -196,15 +196,15 @@ There are **13 research repositories plus this profile repository**. The **12 pr
 <td width="50%" valign="top">
 <h3>🧪 Polyherbal Antioxidant & Antidiabetic In-Silico Research</h3>
 <p><strong>Natural Products • Molecular Docking • Evidence Appraisal</strong></p>
-<p>Research extension of in-vitro studies of five medicinal plants and three formulations through evidence-qualified compound curation, structural preparation and exploratory docking.</p>
-<details open><summary><b>Research highlights</b></summary><ul><li>Five medicinal-plant species; three formulations</li>
-<li>Literature-qualified reference compound library</li>
-<li>Receptor checks and native-ligand pose-recovery tests</li>
-<li>Exploratory AutoDock Vina experiments; further work ongoing</li></ul></details>
+<p>Completed computational study of literature-qualified polyherbal candidates using receptor validation, structural preparation and exploratory docking with explicitly defined geometric PASS criteria.</p>
+<details open><summary><b>Research highlights</b></summary><ul><li>130 candidate searches; 2,559 docking poses</li>
+<li>10 geometric PASS conditions; 16 INCONCLUSIVE conditions</li>
+<li>Luteolin passed both tested receptor states; quercetin and mangiferin had model-dependent outcomes</li>
+<li>Some compounds remained inconclusive; 4GQR failed native-ligand validation and was excluded</li></ul></details>
 <p><small><b>Methods & tools:</b> AutoDock Vina · Python · Phytochemistry · Molecular Modelling</small></p>
-<p><i>Evidence boundary: Docked poses do not establish compound presence in extracts, enzyme inhibition or clinical efficacy.</i></p>
+<p><i>Evidence boundary: This manuscript is not peer-reviewed. A docking PASS denotes geometric pose consistency; docking does not establish experimental binding affinity, enzyme inhibition or clinical efficacy.</i></p>
 <a href="https://github.com/tharuniya26/Polyherbal_Antioxidant_Antidiabetic_InSilico"><img src="https://img.shields.io/badge/Explore_Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore Project" /></a>
-<a href="https://github.com/tharuniya26/Polyherbal_Antioxidant_Antidiabetic_InSilico/blob/main/README.md"><img src="https://img.shields.io/badge/Research_Details-0F766E?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Research details"/></a>
+<a href="https://github.com/tharuniya26/Polyherbal_Antioxidant_Antidiabetic_InSilico/blob/main/manuscript/Tharuniya_Anpalakan_Polyherbal_Computational_Manuscript.pdf"><img src="https://img.shields.io/badge/Manuscript-0F766E?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Polyherbal computational manuscript"/></a>
 </td>
 </tr><tr>
 <td width="50%" valign="top">
@@ -223,15 +223,15 @@ There are **13 research repositories plus this profile repository**. The **12 pr
 <td width="50%" valign="top">
 <h3>🧫 MRSA Virulence & Antimicrobial Resistance Genomics</h3>
 <p><strong>Bacterial Genomics • AMR • Reproducible QC</strong></p>
-<p>Builds a traceable workflow around four NCBI RefSeq Staphylococcus aureus assemblies, assembly quality checks and planned resistance/virulence screening.</p>
-<details open><summary><b>Research highlights</b></summary><ul><li>Four fixed complete reference assemblies downloaded</li>
-<li>4/4 passed predefined exploratory assembly QC</li>
-<li>AMRFinderPlus-based screening implemented but pending execution</li>
-<li>No AMR-gene frequency, phenotype or SCCmec result claimed</li></ul></details>
-<p><small><b>Methods & tools:</b> NCBI RefSeq · FASTA · Python · AMRFinderPlus</small></p>
-<p><i>Evidence boundary: Assembly QC is complete; resistance/virulence findings and phenotype analyses remain pending.</i></p>
+<p>Completed, reproducible acquisition and assembly-QC workflow for four NCBI RefSeq Staphylococcus aureus assemblies, with checksum validation, automated tests, executed notebooks and an updated research report.</p>
+<details open><summary><b>Research highlights</b></summary><ul><li>Four RefSeq assemblies validated; 4/4 SHA-256 checksums passed</li>
+<li>4/4 assembly QC checks and four automated tests passed</li>
+<li>Six notebooks executed successfully</li>
+<li>Updated nine-page research report</li></ul></details>
+<p><small><b>Methods & tools:</b> NCBI RefSeq · FASTA · SHA-256 · Python · Jupyter · Assembly QC</small></p>
+<p><i>Evidence boundary: AMRFinderPlus, virulence analysis, MLST and SCCmec typing remain unperformed; no antimicrobial-resistance genes, virulence determinants, susceptibility phenotypes or sequence types are claimed.</i></p>
 <a href="https://github.com/tharuniya26/mrsa-virulence-amr-genomics"><img src="https://img.shields.io/badge/Explore_Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore Project" /></a>
-<a href="https://github.com/tharuniya26/mrsa-virulence-amr-genomics/blob/main/reports/mrsa_genomic_analysis.pdf"><img src="https://img.shields.io/badge/Current_Project_Report-0F766E?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Current MRSA genomics project report"/></a>
+<a href="https://github.com/tharuniya26/mrsa-virulence-amr-genomics/blob/main/reports/mrsa_genomic_analysis.pdf"><img src="https://img.shields.io/badge/Research_Report-0F766E?style=for-the-badge&logo=readthedocs&logoColor=white" alt="MRSA genomics research report"/></a>
 </td>
 </tr><tr>
 <td width="50%" valign="top">
