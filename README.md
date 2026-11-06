@@ -6,7 +6,7 @@
 
 <p>
 <a href="https://github.com/tharuniya26?tab=repositories"><img src="https://img.shields.io/badge/Explore_Research_Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore research projects"/></a>
-<a href="mailto:tharuniya7972@gmail.com"><img src="https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Tharuniya"/></a>
+<a href="mailto:tharuniya08@gmail.com"><img src="https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Tharuniya"/></a>
 <a href="https://www.researchgate.net/profile/Tharuniya-Anpalakan"><img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white" alt="ResearchGate researcher profile"/></a>
 <a href="https://www.linkedin.com/in/tharuniya-anpalakan/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn professional profile"/></a>
 <a href="https://github.com/tharuniya26"><img src="https://img.shields.io/badge/GitHub_Profile-0969DA?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile"/></a>
